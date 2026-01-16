@@ -268,6 +268,13 @@ Thanks to all the amazing people who have contributed to this project! 🎉
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/quotokun">
+                    <img src="https://avatars.githubusercontent.com/u/14837019?v=4" width="100;" alt="quotokun"/>
+                    <br />
+                    <sub><b>quotokun</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/klpod221">
                     <img src="https://avatars.githubusercontent.com/u/62713126?v=4" width="100;" alt="klpod221"/>
                     <br />
